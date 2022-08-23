@@ -5,13 +5,16 @@ Position 5 out of 13 teams. Link to competition: https://www.kaggle.com/competit
 Team: CMD
 
 Members:
+
 -Mario Catapano
+
 -Massimo Di Gennaro
 
 Details of all the models and tests performed are included on the Word documents:
 
-Documento explicativo (In Spanish)
-Explanatory Document (In English)
+-Documento explicativo (In Spanish)
+
+-Explanatory Document (In English)
 
 Both documents contain the same information.
 

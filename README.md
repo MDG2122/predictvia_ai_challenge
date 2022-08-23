@@ -10,7 +10,7 @@ Members:
 
 -Massimo Di Gennaro
 
-Details of all the models and tests performed are included on the Word documents:
+Details of all the models, tests performed and Preprocessing Techniques (used and discarded) are included on the Word documents:
 
 -Documento explicativo (In Spanish)
 
